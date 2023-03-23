@@ -14,6 +14,8 @@ void input() {
 			break;
 		}
 		else
-		{ }
+		{
+			cout << "\nArray"
+		}
 	}
 }
